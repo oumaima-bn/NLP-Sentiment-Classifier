@@ -6,7 +6,6 @@ A machine learning project that classifies Amazon app reviews as **positive** or
 
 ![Demo of the Sentiment Analysis app](demo.JPG)
 
-Type a review in English, click **Submit**, and the app returns the predicted sentiment (`positif` or `négatif`).
 
 ## Features
 
